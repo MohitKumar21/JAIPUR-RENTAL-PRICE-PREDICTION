@@ -1,0 +1,5519 @@
+location,PropertyType,BHK,price
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
+m i road,residential house,6,80000
+vaishali nagar,apartment,2,12000
+sez,apartment,3,15000
+pratap nagar,villa,3,35000
+ajmer road,villa,3,18000
+bapu nagar,builder floor apartment,4,49000
+mansarovar colony,paying guest,NaN,5000
+ajmer road,villa,3,15000
+bajaj nagar enclave,apartment,3,30000
+sanganer,builder floor apartment,3,20000
+lalkothi,builder floor apartment,3,28000
+chitrakoot,residential house,3,25000
+patrakar colony,apartment,3,24000
+mahesh nagar,paying guest,NaN,11000
+c-scheme,apartment,4,55000
+niwaru road,builder floor apartment,3,10500
+jagatpura,service apartment,2,11000
+khatipura,residential house,2,15000
+mahadev nagar,apartment,2,18000
+tonk road,villa,3,18000
+NaN,apartment,3,15000
+bapu nagar,builder floor apartment,3,30000
+durgapura,residential house,4,35000
+bani park,apartment,4,30000
+airport road,service apartment,3,50000
+vaishali nagar,residential house,2,20000
+NaN,residential house,2,15000
+pratap nagar,apartment,3,30000
+mansarovar,apartment,3,16000
+NaN,paying guest,NaN,8000
+ajmer road,residential house,1,12000
